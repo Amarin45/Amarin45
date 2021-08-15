@@ -7,4 +7,4 @@
 <!---
 Amarin45/Amarin45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> 1,000ļine No0.5 No1.5 kike
